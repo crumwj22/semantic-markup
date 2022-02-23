@@ -21,7 +21,7 @@ CSS Changes:
 
 Deployment link to finished site: 
 
-
+https://crumwj22.github.io/semantic-markup/
 
 Contributions:
 
