@@ -1,4 +1,4 @@
-/* Border style */
+/* General border style */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -44,18 +44,17 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* a href styling */
+/* text/URL */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* paragraph styling */
 p {
     font-size: 16px;
 }
 
-/* Main picture tyling */
+/* Hero with background image */
 .hero {
     height: 800px;
     width: 100%;
