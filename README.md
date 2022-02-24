@@ -23,6 +23,9 @@ Deployment link to finished site:
 
 https://crumwj22.github.io/semantic-markup/
 
+![alt text](screenshots/HoriseonScreenshot.png "screenshot of Horiseon website")
+
+
 Contributions:
 
 -Code rafactoring completed by Jesse Crumley
